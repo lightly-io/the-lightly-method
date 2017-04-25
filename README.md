@@ -7,7 +7,7 @@ I've been giving talks and teaching courses on how to reduce stress and increase
 
 In the beginning, I was very focused on which methods they should be using. As mindfulness and meditation had proven effective for me, I wanted everyone else to start practicing as well.
 
-But the more I learned, the less attached I became to the methods. Now, it seems more important to understand what is the greatest obstacle for that particular individual and team rather first.
+But the more I learned, the less attached I became to the methods. Now, it seems more important to understand what is the greatest obstacle for that particular individual and team before suggesting solutions.
 
 I've been developing this method over the last year and I iterate it on a monthly basis.
 
@@ -16,23 +16,26 @@ The goal is that everyone should be ...
 
 
 ### 1. Sustainable
-Definition: the way you're working shouldn't result in any sick leave or physical symptoms due to stress.
+**Definition:** the way you're working shouldn't result in any sick leave or physical symptoms due to stress.
 
-State right now: in Sweden, more people are sick from mental health problems (most often "acute stress reaction") than physical health problems.
+**State:** in Sweden, more people are sick from mental health problems (most often "acute stress reaction") than physical health problems.
 
 ### 2. Productive
-Definition: create as much value as possible.
+**Definition:** create as much value as possible.
 
-State right now: most teams I work with feel confused and that their work is not meaningful.
+**State:** most teams I work with feel confused and that their work is not meaningful.
 
-Note that productivity doesn't mean speed. There's no need working fast if you are working on the wrong things. What's the right thing, then? That's up to you. *Usually* productive means "helping someone else" if we dig deep enough. To be even clearer, "reducing suffering" is a clear measurement on what impact your work has.
-
+Note that productivity doesn't mean speed. There's no need working faster if you are working on the wrong thing. What's the right thing, then? That's up to you. *Usually* productive means "creating value" or "reducing suffering".
 
 ## Summary of method
-A group meets. They take turns in telling the rest of the group what the greatest obstacle to their sustainable productivity is. Before the session, they have all spent some time to reflect on this on their own. The group listens and asks questions. Sometimes it ends in the individual picking an experiment to do until the next session, and sometimes it ends in them looking at their obstacle in a new way.
+A group meets. They take turns in telling the rest of the group what the greatest obstacle to their sustainable productivity is. 
+
+Before the session, they have all spent some time to reflect on this on their own. The group listens and asks questions. 
+
+Sometimes it ends in the individual picking an experiment to do until the next session, and sometimes it ends in them looking at their obstacle in a new way.
 
 ## Basics ideas and beliefs
-Everybody beliefs. Even atheists like me belive. So what beliefs are the basic for this method?
+Everybody beliefs. Even atheists like me belive. So what beliefs are the basis for this method?
 
 * Psychology is complicated. Humans are not binary. There are rarely easy solutions to the greatest obstacle in an individuals life.
 * Suffering is a necessary part of life. If we dig deep enough, we find that suffering is necessary for happiness, and therefore not something we should completely remove.
@@ -45,9 +48,9 @@ Everybody beliefs. Even atheists like me belive. So what beliefs are the basic f
 ### What we know is true
 ... and then there are some things that are not based on beliefs.
 
-* The brain is malleable. You don't have the same personality when you are 77 as when you are 17. It's plastic, changeable.
+* The brain is malleable. You don't have the same personality when you are 77 as when you are 17. The brain is plastic, changeable.
 * Most of what is happening in the brain happens on a sub-conscious level. Therefore, we are not always the best judges of why we do what we do.
-* Our brains where build for a completely different environment. Therefore, most of our behaviour is not rational from a modern standpoint. (But very rational from a cave-persons standpoint). Bugs include: over-reacting to danger, looking for high-energy food, prioritizing suffering of those who are close and similar-looking to ourselves.
+* Our brains were built for a completely different environment. Therefore, most of our behaviour is not rational from a modern standpoint. (But very rational from a cave-persons standpoint). Bugs include: over-reacting to danger, looking for high-energy food, prioritizing suffering of those who are close and similar-looking to ourselves.
 
 In summary: we are hard-wired *and* we can change. It's tough but not hopeless. A willingness to improve should be coupled with a willingness to accept some of our flaws.
 
