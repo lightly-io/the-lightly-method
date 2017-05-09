@@ -18,7 +18,7 @@ The goal is that everyone should be ...
 ### 1. Sustainable
 **Definition:** the way you're working shouldn't result in any sick leave or physical symptoms due to stress.
 
-**State:** in Sweden, more people are sick from mental health problems (most often "acute stress reaction") than physical health problems.
+**State:** in Sweden, more people are sick from mental health problems (most often "acute stress reaction") than physical health problems. This is increasing every year, and thus not very sustainable.
 
 ### 2. Productive
 **Definition:** create as much value as possible.
@@ -28,11 +28,9 @@ The goal is that everyone should be ...
 Note that productivity doesn't mean speed. There's no need working faster if you are working on the wrong thing. What's the right thing, then? That's up to you. *Usually* productive means "creating value" or "reducing suffering".
 
 ## Summary of method
-A group meets. They take turns in telling the rest of the group what the greatest obstacle to their sustainable productivity is. 
+A group meets. They take turns in telling the rest of the group what the greatest obstacle to their sustainable productivity is. The group tries to understand the obstacle and maybe pick an experiment to see if it can be removed or changed.
 
-Before the session, they have all spent some time to reflect on this on their own. The group listens and asks questions. 
-
-Sometimes it ends in the individual picking an experiment to do until the next session, and sometimes it ends in them looking at their obstacle in a new way.
+Before the session, they have all spent some time to reflect on their situation on their own. Methods for reflection include meditation, journaling, open & honest conversations and taking walks.
 
 ## Basics ideas and beliefs
 Everybody beliefs. Even atheists like me belive. So what beliefs are the basis for this method?
@@ -57,10 +55,10 @@ In summary: we are hard-wired *and* we can change. It's tough but not hopeless. 
 ## License
 The Lightly Method is open sourced. That means that you can take it and start teaching it and make money if you want to without asking me. The only thing I want in return is for you to publish your own version under the same license. To pay it forward.
 
-## The method, overview
+## The method, practical parts
 Schedule a meeting for 10 + (10 times the number of participants) minutes. If you have eight participants, schedule 90 minutes.
 
-Meet until the group is satisfied. This might take four sessions, or eight, or twelve. If the group is not satisfied after twelve sessions, maybe another method is more helpful to them.
+Meet once a week or month until the group is satisfied. This might take four sessions, or eight, or twelve. If the group is not satisfied after twelve sessions, maybe the method is not the right fit.
 
 
 ### The facilitators role
@@ -72,25 +70,25 @@ You are there to ...
 2. Do all the practical work: find the time, email participants, recommend books.
 3. Make sure everyone get's their chance to say what's on their mind.
 4. Make the sessions run smooth.
-5. Be well read and curious as h*ck. Read, think, listen, watch, learn, learn, learn. The more perspectives you can bring in, the more ideas you can bring into the sessions.
+5. Be well read and curious as h*ck. Read, think, listen, watch, learn, learn, learn. The more perspectives you can bring in, the more ideas you can bring into the sessions. Philosophy, leadership, psychology, organizational theory, productivity, technology, biology ... voraciousness is key.
 
 ### Literature
 Some basic knowledge on productivity and stress is helpful for the participants. You could just teach them this, or recommend them a few books. I find that the combination of Daniel Golemans "Focus", Mihaly Czikszentmihaly's "Flow" and Chade Meng-Tan's "Search Inside Yourself" make a good basis of knowledge.
 
 ## Measurements
-Send out a google form before the first session. The Google form should be anonymous and measure sustainability and productivity from a subjective level on a scale of 1-10. Set a goal with the group on what numbers you want to reach. Once you've reached your goals, there's no need for more sessions.
+Send out a Google form before the first session. The Google form should be anonymous and measure sustainability and productivity from a subjective level on a scale of 1-10. Set a goal with the group on what numbers you want to reach. Once you've reached your goals, there's no need for more sessions.
 
 ## Asking questions
-During the session, each participant will take turn to share their greatest obstacle to sustainable productivity. Your role as a facilitator is to ask questions about this obstacle. The goal is either to come up with a new way to see it, or the create an experiment where we could perhaps remove it or work with it.
+During the session, each participant will take turn to share their greatest obstacle to sustainable productivity. Your role as a facilitator is to ask questions about this obstacle. The goal is either to come up with a new way to see it, or the create an experiment where we could perhaps remove it.
 
 I've listed benefits under each question to clarify the point of asking them. Not all benefits will come of each question, and if you notice that a question doesn't seem to bring any benefit, just stop asking it.
 
-### 0: Ask what method of reflection, if any, they used to come up with this
+### 1: What method of reflection, if any, did you use to come up with the obstacle?
 Benefit: See that reflection is necessary.
 Benefit: Know which ways of reflection are most effective.
 Benefit: If no reflection has been performed, realize that this is just top-of-mind, and maybe not the root cause of the problem. Incentive to reflect more until next time.
 
-### 1: Tell the group what your greatest obstacle to sustainable productivity is
+### 2: What is the greatest obstacle to your sustainable productivity?
 Benefit: Just telling others might be helpful.
 Benefit: Note that there are people listening. I'm not alone.
 
@@ -98,27 +96,29 @@ Before you ask this question, be clear on boundaries. Maybe the greatest obstacl
 
 Note that it's not up to us to judge if this is the greatest obstacle or not. We can ask questions about it, but in the end, the individual is free to make this call. We can only live in our own hell.
 
-Even if someone doesn't have something to share – no obstacles – they still have an important role to play. 
+Even if someone doesn't have something to share – no obstacles – they still have an important role to play. They will be able to bring in perspectives and ask questions to the other participants. 
 
-### 2: Ask if others in the group are experiencing, or have experienced the same thing
+### 3: Does anyone else in the group experience the same thing?
 Benefit: Don't feel as much of a freak or as alone with the problem.
 
-### 3: It this obstacle the flip side of a positive trait?
+### 4: It this obstacle the flip side of a positive trait?
 Benefit: Could be more accepting towards the obstacle, maybe even see it as necessary.
 
-### 4: Is there another way to look at the obstacle?
+### 5: Is there another way to look at the obstacle?
 This is truly where your role as a facilitator plays in. The more you've read on psychology, philosophy, leadership, productivity, the more viewpoints you will be able to bring in at this point.
 
 Don't tell the participants *how it is*. Just bring in other perspectives. "Could it be that ..." or "What if we look at it from this angle .." are most effective.
 
 Benefit: Insight.
 
-### 5: How big is the obstacle?
+### 6: How big is the obstacle?
 Benefit: Realize that the obstacle is meta-OK. "Even though it's not OK, it's OK."
-Benefit: Realize that as humans, we will never be perfect. Be more accepting towards oneself. Which in itself reduces suffering.
-Vinst: Inse att man aldrig blir perfekt och att alla skavanker inte behöver tas bort (du blir aldrig klar)
+Benefit: Realize that as humans, we will never be perfect. Be more accepting towards oneself. Which in itself reduces suffering. ("du blir aldrig klar")
 
-### 6: Is there any experiment you could perform until our next session?
+### 7: Where is the problem located? Is it affecting only you or your team and organization?
+Benefit: Realize where energy needs to be spent to work with the obstacle.
+
+### 8: Is there any experiment you could perform until our next session?
 Benefit: Potential removal of obstacle.
 
 Don't force experiment on to people. This should be something they choose to do. In the example of meditation, maybe someone would get *more* stressed out by trying out meditation in order to become more calm. 
@@ -134,3 +134,6 @@ Spend a few minutes at the start of each session to look at these bullets. Add m
 4. The closed door: social. Don't share this outside of the session.
 5. Let everyone speak. If you've already given comments a few times, wait before you do it again. Others might need more time to think before they comment.
 6. If someone would tear up or start crying, that's not a problem. It's just water. Nothing to be scared of.
+
+## Contact
+Questions? Thoughts? Feedback? Please email me at mattis@lightly.io. 
