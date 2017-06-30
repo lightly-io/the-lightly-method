@@ -28,12 +28,12 @@ The goal is that everyone should be ...
 Note that productivity doesn't mean speed. There's no need working faster if you are working on the wrong thing. What's the right thing, then? That's up to you. *Usually* productive means "creating value" or "reducing suffering".
 
 ## Summary of method
-A group meets. They take turns in telling the rest of the group what the greatest obstacle to their sustainable productivity is. The group tries to understand the obstacle and maybe pick an experiment to see if it can be removed or changed.
+Before the group meets, they have all spent some time to reflect on their situation on their own. Methods for reflection include meditation, journaling, open & honest conversations and taking walks.
 
-Before the session, they have all spent some time to reflect on their situation on their own. Methods for reflection include meditation, journaling, open & honest conversations and taking walks.
+In the session, they take turns in telling the rest of the group what the greatest obstacle to their sustainable productivity is. The group tries to understand the obstacle and maybe pick an experiment to see if it can be removed or changed.
 
 ## Basics ideas and beliefs
-Everybody beliefs. Even atheists like me belive. So what beliefs are the basis for this method?
+Everybody believes. Even atheists like me belive. So what beliefs are the basis for this method?
 
 * Psychology is complicated. Humans are not binary. There are rarely easy solutions to the greatest obstacle in an individuals life.
 * Suffering is a necessary part of life. If we dig deep enough, we find that suffering is necessary for happiness, and therefore not something we should completely remove.
