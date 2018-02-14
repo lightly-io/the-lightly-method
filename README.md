@@ -25,20 +25,22 @@ The goal is that everyone should be ...
 
 **State:** most teams I work with feel confused and that their work is not meaningful.
 
-Note that productivity doesn't mean speed. There's no need working faster if you are working on the wrong thing. What's the right thing, then? That's up to you. *Usually* productive means "creating value" or "reducing suffering".
+Note that productivity doesn't mean speed. There's no need working faster if you are working on the wrong thing. What's the right thing, then? Well ... that is very subjective. Some find it meaningful to write beautiful code, no matter what the end product is. Other's want to reduce suffering for others. Productivity is a more subjective thing than we usually talk about it.
 
 ## Summary of method
-Before the group meets, they have all spent some time to reflect on their situation on their own. Methods for reflection include meditation, journaling, open & honest conversations and taking walks.
+A group meets for 4-12 times, weekly or monthly. They discuss their obstacles to sustainable productivity and help each other out. Between each session they might do experiments to work around their obstacles.
 
-In the session, they take turns in telling the rest of the group what the greatest obstacle to their sustainable productivity is. The group tries to understand the obstacle and maybe pick an experiment to see if it can be removed or changed.
+A facilitator takes on the role of solving all the practical stuff as well as making sure everyone feels safe and heard. The facilitator also ask specific questions during the group session.
+
+The Lightly Method results in lower stress, higher productivity, and more well-being.
 
 ## Basics ideas and beliefs
 Everybody believes. Even atheists like me belive. So what beliefs are the basis for this method?
 
-* Psychology is complicated. Humans are not binary. There are rarely easy solutions to the greatest obstacle in an individuals life.
+* Psychology is complicated. Humans are not binary. There are rarely easy solutions to the greatest obstacle in an individual's life.
 * Suffering is a necessary part of life. If we dig deep enough, we find that suffering is necessary for happiness, and therefore not something we should completely remove.
 * We don't need more information. You already know so, so much. "Wisdom is taking your own advice." What we need help with is to clarify our thinking, prioritize, and make the changes we know we need.
-* Everyone doesn't need to improve. 
+* Everyone doesn't need to improve. The problem could actually be that you are trying to improve all the time.
 * Big things first. It's easy to get caught up in details, but we will also not create as meaningful changes there.
 * The scientific method is the best way to determine if something is true or not. The first step of the scientific method is to assume ignorance and let the results of experiments speak.
 
@@ -62,15 +64,15 @@ Meet once a week or month until the group is satisfied. This might take four ses
 
 
 ### The facilitators role
-You, as a facilitator, have a special role to play. You are not in the group to solve their problems. It might feel tempting, but that's not it. You are no genuis, no guru, no Tony Robbins charlatan. 
+The facilitator has a special role to play. You are not in the group to solve their problems. It might feel tempting, but that's not it. You are no genuis, no guru, no Tony Robbins charlatan. 
 
-You are there to ...
+The facilitator is there to ...
 
 1. Help them discover what is stopping them from being sustainably productive. Encourage reflection. Ask questions.
 2. Do all the practical work: find the time, email participants, recommend books.
 3. Make sure everyone get's their chance to say what's on their mind.
 4. Make the sessions run smooth.
-5. Be well read and curious as h*ck. Read, think, listen, watch, learn, learn, learn. The more perspectives you can bring in, the more ideas you can bring into the sessions. Philosophy, leadership, psychology, organizational theory, productivity, technology, biology ... voraciousness is key.
+5. Be well read and curious as h*ck. Read, think, listen, watch, learn, learn, learn. The more perspectives the facilitator can bring in, the more ideas you can bring into the sessions. Philosophy, leadership, psychology, organizational theory, productivity, technology, biology ... voraciousness is key.
 
 ### Literature
 Some basic knowledge on productivity and stress is helpful for the participants. You could just teach them this, or recommend them a few books. I find that the combination of Daniel Golemans "Focus", Mihaly Czikszentmihaly's "Flow" and Chade Meng-Tan's "Search Inside Yourself" make a good basis of knowledge.
@@ -78,8 +80,13 @@ Some basic knowledge on productivity and stress is helpful for the participants.
 ## Measurements
 Send out a Google form before the first session. The Google form should be anonymous and measure sustainability and productivity from a subjective level on a scale of 1-10. Set a goal with the group on what numbers you want to reach. Once you've reached your goals, there's no need for more sessions.
 
+## Pre-reflection
+Before the group meets, the participants should all spent some time to reflect on their situation on their own. Methods for reflection include meditation, journaling, open & honest conversations and taking walks. The should come into the session with an idea of what their main obstacle is.
+
+It is the facilitator's job to encourage this reflection. I usually send out the suggestion when I send the measurement form.
+
 ## Asking questions
-During the session, each participant will take turn to share their greatest obstacle to sustainable productivity. Your role as a facilitator is to ask questions about this obstacle. The goal is either to come up with a new way to see it, or the create an experiment where we could perhaps remove it.
+During the session, each participant will take turn to share their greatest obstacle to sustainable productivity. Your role as a facilitator is to ask questions about this obstacle. The goal is either to come up with a new way to see it, or the create an experiment where we could perhaps remove it. Sometimes, just talking about something is solving it: you feel heard, not alone. Talking about it might also clarify your thinking, which could be a solution in and of itself.
 
 I've listed benefits under each question to clarify the point of asking them. Not all benefits will come of each question, and if you notice that a question doesn't seem to bring any benefit, just stop asking it.
 
@@ -118,7 +125,13 @@ Benefit: Realize that as humans, we will never be perfect. Be more accepting tow
 ### 7: Where is the problem located? Is it affecting only you or your team and organization?
 Benefit: Realize where energy needs to be spent to work with the obstacle.
 
-### 8: Is there any experiment you could perform until our next session?
+### 8: Does anyone else in the group have questions?
+Remind the group that they should not try to solve the obstacle to quickly. We are used to that in our day-to-day work: to solve problems as quickly as possible. But when it comes to psychology, it's rarely that easy.
+
+Benefit: Deeper understanding of obstacle.
+Benefit: Additional perspectives.
+
+### 9: Is there any experiment you could perform until our next session?
 Benefit: Potential removal of obstacle.
 
 Don't force experiment on to people. This should be something they choose to do. In the example of meditation, maybe someone would get *more* stressed out by trying out meditation in order to become more calm. 
