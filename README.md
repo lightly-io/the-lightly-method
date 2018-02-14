@@ -150,3 +150,5 @@ Spend a few minutes at the start of each session to look at these bullets. Add m
 
 ## Contact
 Questions? Thoughts? Feedback? Please email me at mattis@lightly.io. 
+
+Read more about my work at www.lightly.io.
